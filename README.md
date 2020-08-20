@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: I'm always learning something, ask anytime, and I'll give you a response!
 
-- `:dart:` My goal is to transform knowledge into ease.
+- :dart: My goal is to transform knowledge into ease.
 
 <table>
     <tr>
