@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Daniel, Software Engineer from Brasilia, Brazil 👋
 
-<!--
-**Daniellunsc/Daniellunsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on PlatformBuilders.
+- 🌱 I’m currently learning Design Patterns and TDD.
+- 👯 I’m looking to collaborate on ideas that can make people's life easier!
+- 💬 Ask me about anything you want!
+- 📫 How to reach me: 
+    - [Dev.to](https://dev.to/daniellunsc)
+    - [Twitter](https://twitter.com/daniellunsc)
+    - [Instagram](https://www.instagram.com/daniellunsc/)
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I'm always learning something, ask anytime, and I'll give you a response!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `:dart:` My goal is to transform knowledge into ease.
+
+<table>
+    <tr>
+        <td>
+            <img width="430px" src="https://github-readme-stats.vercel.app/api?username=daniellunsc&count_private=true" alt="status">
+        </td>
+        <td>
+            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellunsc&count_private=true&layout=compact" alt="languages">
+        </td>
+    </tr>
+</table>
