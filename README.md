@@ -1,7 +1,7 @@
 ### Hi, I'm Daniel, Software Engineer from Brasilia, Brazil 👋
 
 - 🔭 I’m currently working on PlatformBuilders.
-- 🌱 I’m currently learning Design Patterns and TDD.
+- 🌱 I’m currently learning TDD and Algorithms!
 - 👯 I’m looking to collaborate on ideas that can make people's life easier!
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: 
